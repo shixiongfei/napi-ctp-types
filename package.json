@@ -1,0 +1,40 @@
+{
+  "name": "@napi-ctp/types",
+  "version": "0.1.0",
+  "description": "The type definition for napi-ctp",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "files": [
+    "lib/",
+    "src/"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shixiongfei/napi-ctp-types.git"
+  },
+  "keywords": [
+    "napi-ctp",
+    "ctp",
+    "node-ctp",
+    "trading",
+    "trade"
+  ],
+  "author": "shixiongfei",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shixiongfei/napi-ctp-types/issues"
+  },
+  "homepage": "https://github.com/shixiongfei/napi-ctp-types#readme",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "@typescript-eslint/eslint-plugin": "^7.12.0",
+    "@typescript-eslint/parser": "^7.12.0",
+    "eslint": "^8.57.0",
+    "prettier": "^3.3.1",
+    "typescript": "^5.4.5"
+  }
+}
