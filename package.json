@@ -23,6 +23,9 @@
     "trading",
     "trade"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "shixiongfei",
   "license": "Apache-2.0",
   "bugs": {
