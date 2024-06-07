@@ -7,6 +7,7 @@
  * License: Apache-2.0
  *
  * https://github.com/shixiongfei/napi-ctp-types
+ * https://github.com/shixiongfei/napi-ctp
  */
 
 /** 交易所属性类型 */
