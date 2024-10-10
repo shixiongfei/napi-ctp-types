@@ -3659,6 +3659,7 @@ export enum OptSelfCloseFlagType {
 
 /** 业务类型类型 */
 export enum BizTypeType {
+  Reserve = "",
   /** 期货 */
   Future = "1",
   /** 证券 */
